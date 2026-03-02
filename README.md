@@ -1,5 +1,7 @@
 # iQOO 13 Case
 
+<img src="3D Print Captures/Back.jpg" width="200"><img src="3D Print Captures/Front.jpg" width="200"><img src="3D Print Captures/Side.jpg" width="200"><img src="3D Print Captures/Top.jpg" width="200"><img src="3D Print Captures/Bottom.jpg" width="200">
+
 ## Known Issues
 - Tricky phone insertion for the first time (easier to insert by sliding longer edges first)
   - Needs some level of loosening/flexing of the boundaries
