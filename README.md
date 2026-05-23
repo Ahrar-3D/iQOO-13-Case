@@ -1,20 +1,26 @@
-# iQOO 13 Case
+# iQOO 13 Case (Alt Design)
 
-<img src="3D Print Captures/Back.jpg" width="200"><img src="3D Print Captures/Front.jpg" width="200"><img src="3D Print Captures/Side.jpg" width="200"><img src="3D Print Captures/Top.jpg" width="200"><img src="3D Print Captures/Bottom.jpg" width="200">
+## Design Goals
 
-## Known Issues
-- Tricky phone insertion for the first time (easier to insert by sliding longer edges first)
-  - Needs some level of loosening/flexing of the boundaries
-- Phone to Latch clearance increases after 3 days of usage
-  - Probably due to creep?
-  - Could be due to the slits allowing higher than intended flexibility
-- Camera cutout almost line to line (protection can be negligible)
-- Charging port cutout sometimes interferes with cables (slightly larger offset could've been better)
+### Thermal & Material Optimization
+- **Open Back Design**: The case is designed to be open from the back to allow heat to escape directly into the environment.
+- **Material Minimization**: Reduced the overall amount of material needed for printing to lower print time and waste.
 
-## Future Considerations
-- Phone feels too thick in hand/pocket
-  - Wall thickness can be lowered
-- Back design can be made that's open to free air
-  - Removal of closed space cooling channels
-- TPU can be used instead of PLA
-  - Better feel and fit
+
+### Mechanical Improvements
+- **Latch Optimization**: Refined the latch behavior to optimize locking forces and improve security.
+- **Insertion Fix**: Addressed corner warping issues that previously hindered proper phone insertion.
+- **Creep Mitigation**: Implemented changes to prevent the case from becoming loose after several days of use (addressing material creep).
+
+## General Case Design Principles
+
+### Essential
+- Precise dimensions and port/button cutouts
+- Raised edges for screen and camera protection
+- Secure fit to prevent device slippage
+
+### Good to have
+- Thermal ventilation/heat dissipation
+- Impact-absorbing materials (e.g., TPU)
+- Ergonomic grip and lightweight design
+- Easy installation/removal mechanisms
